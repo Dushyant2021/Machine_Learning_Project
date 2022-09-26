@@ -9,3 +9,7 @@ This is first machine learning project.
 4. [GIT CLI](https://git-scm.com/downloads)
 
 
+Creating conda environment
+'''
+conda create -p venv python==3.7 -y 
+'''
